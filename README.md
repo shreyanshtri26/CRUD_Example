@@ -8,6 +8,7 @@ Setup
 
 1. Clone the repository
 2. Install dependencies
+
     npm install
 3. Create a PostgreSQL database called mydb
   sql- CREATE DATABASE mydb;
